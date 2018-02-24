@@ -1,1 +1,11 @@
-
+import java.util.ArrayLists;
+public class Website{
+  int reli;
+  int size;
+  int dens;
+  public Website(int uReli, int uSize, int uDens){
+  reli = uReli;
+  size = uSize;
+  dens = uDens;
+  }
+}
